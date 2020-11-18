@@ -12,6 +12,7 @@
   ],
   "startup": "application",
   "apparmor": false,
+  "full_access": true,
   "boot": "auto",
   "ports": {
     "8090/tcp": 8090,
